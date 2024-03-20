@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ematefaith0
+- 👋 Hi, I’m Faith
 - 👀 I’m interested in working on myself
 - 🌱 I’m currently learning frontend development 
 - 📫 How to reach me 08157590310
